@@ -80,7 +80,7 @@ inputs:
   readme_path:
     description: "The path to the readme file"
     required: false
-    default: "README.md"
+    default: "profile/README.md"
   output_only:
     description: "Whether to return the section markdown as output instead of writing to the file"
     required: false
