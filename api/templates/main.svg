@@ -1,0 +1,42 @@
+<!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
+    width="{{ width }}" height="{{ height }}" viewBox="0 0 {{ width }} {{ height }}">
+    <style>{% include "resources/roboto.css" %}</style>
+    <defs>
+        <clipPath id="image-clip">
+            <use xlink:href="#rect" />
+        </clipPath>
+    </defs>
+    <!-- outer rectangle -->
+    <rect id="rect" rx="{{ border_radius }}" width="{{ width }}" height="{{ height }}"
+        fill="{{ background_color }}" />
+    <!-- thumbnail image -->
+    <image width="{{ width }}" clip-path="url(#image-clip)" href="{{ thumbnail }}" />
+    {% if duration != "0:00" %}
+    <!-- video duration -->
+    <g transform="translate({{ width - 8 - duration_width }}, {{ height - title_height - 82 }})">
+        <rect x="0" y="0" rx="2" width="{{ duration_width }}" height="16" fill="#000000bb"/>
+        <text x="{{ duration_width / 2 }}" y="9" dominant-baseline="middle" text-anchor="middle"
+            fill="#ffffff" font-family="Roboto, Segoe UI, Ubuntu, Arial, sans-serif"
+            font-weight="600" font-size="13px">
+            {{ duration }}
+        </text>
+    </g>
+    {% endif %}
+    <!-- title -->
+    <g transform="translate(10, {{ height - title_height - 50 }})">
+        <text fill="{{ title_color }}" font-family="Roboto, Segoe UI, Ubuntu, Arial, sans-serif"
+            font-weight="600" font-size="15px">
+            {% for line in title_lines %}
+            <tspan x="0" dy="{{ title_line_height }}px">{{ line }}</tspan>
+            {% endfor %}
+        </text>
+    </g>
+    <!-- views and date -->
+    <g transform="translate({{ width - 10 if rtl else 10 }}, {{ height - 25 }})">
+        <text fill="{{ stats_color }}" font-family="Roboto, Segoe UI, Ubuntu, Arial, sans-serif"
+            font-weight="400" font-size="13px" direction="{{ 'rtl' if rtl else 'ltr' }}">
+            {{ stats }}
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,3 @@
+id:
+  view: "1 ditonton"
+  views: "%{number} ditonton"

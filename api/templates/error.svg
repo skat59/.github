@@ -1,0 +1,30 @@
+<!-- https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
+    width="250" height="220" viewBox="0 0 250 220">
+    <style>{% include "resources/roboto.css" %}</style>
+    <defs>
+        <clipPath id="image-clip">
+            <use xlink:href="#rect" />
+        </clipPath>
+    </defs>
+    <!-- outer rectangle -->
+    <rect id="rect" rx="5" height="99%" width="99%" fill="#0d1117" />
+    <!-- thumbnail image -->
+    <g>
+        <image height="140" width="250" clip-path="url(#image-clip)" href="{{ thumbnail }}" />
+    </g>
+    <!-- title -->
+    <g transform="translate(10, 170)">
+        <text fill="#d86c69" font-family="Roboto, Segoe UI, Ubuntu, Arial, sans-serif"
+            font-weight="600" font-size="15px">
+            Error {{ code }}
+        </text>
+    </g>
+    <!-- views and date -->
+    <g transform="translate(10, 195)">
+        <text fill="#dedede" font-family="Roboto, Segoe UI, Ubuntu, Arial, sans-serif"
+            font-weight="400" font-size="13px">
+            {{ message }}
+        </text>
+    </g>
+</svg>
