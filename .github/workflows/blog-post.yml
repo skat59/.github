@@ -1,7 +1,6 @@
 name: Новости компании
 on:
   schedule:
-    # Runs every hour, on the hour
     - cron: "0 10 * * 1"
   workflow_dispatch:
 permissions:
@@ -18,7 +17,6 @@ jobs:
         with:
           node-version: 20
           cache: npm
-        run: npm i && node index.js
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
