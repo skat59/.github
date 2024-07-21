@@ -22,7 +22,7 @@
 
 ## Видео компании
 
-### RuTube
+### RuTube - https://rutube.ru/channel/24674834/
 
 <!-- BEGIN RUTUBE -->
 <a href="https://rutube.ru/video/4f18cf26dd5c0b25747950195f9cebf9/">
