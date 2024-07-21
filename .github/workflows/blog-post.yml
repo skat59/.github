@@ -19,9 +19,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-      # - name: Build README
-      #   run: |
-      #     npm i && node index.js
+        run: |
+          npm i
+          node index.js
       - name: Pull profile README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
