@@ -1,4 +1,0 @@
-fa:
-  direction: rtl
-  view: "1 بازدید"
-  views: "%{number} بازدید"
