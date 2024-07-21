@@ -36,13 +36,15 @@
 
 	let log = await fetchRuTube(feed);
 	log.forEach((elt) => {
-		output += `<a href="${elt.url}">
-		<picture>
-			<source media="(prefers-color-scheme: dark)" srcset="${elt.thubnail}?width=250">
-			<img src="${elt.thubnail}?width=250" alt="${elt.title}" title="${elt.title}">
-		</picture>
-		<p><strong>${elt.title}</strong></p>
-	</a>
+		output += `
+
+<a href="${elt.url}">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="${elt.thubnail}?width=250">
+		<img src="${elt.thubnail}?width=250" alt="${elt.title}" title="${elt.title}">
+	</picture>
+	<p><strong>${elt.title}</strong></p>
+</a>
 
 `;
 	});
