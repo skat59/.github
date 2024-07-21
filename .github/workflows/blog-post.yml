@@ -2,7 +2,7 @@ name: Новости компании
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 9 * * 1"
+    - cron: "0 10 * * 1"
   workflow_dispatch:
 permissions:
   contents: write
