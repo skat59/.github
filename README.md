@@ -1,94 +1,117 @@
-# .github
+## ООО «СКАТ» г. Пермь
+<p>ООО «СКАТ» работает на рынке Пермского края с 1999г.</p>
+<p>Накоплен большой опыт работы по продаже спецтехники (погрузчики вилочные, фронтальные, телескопические;складская техника; экскаваторы; харвестеры; форвардеры и пр.), запасных частей, сервисному обслуживанию и ремонту.</p>
+<p>По адресу Окулова, 75, корпус 8 уже более 10-ти лет работает магазин запчастей для спецтехники.</p>
+<p>В нашем магазине вы можете оперативно приобрести запасные части для вилочных погрузчиков, произведенных в Китае, Болгарии, Японии, России и запасные части на весь модельный ряд техники АМКОДОР (фронтальные погрузчики, харвестеры, форвардеры , экскаваторы и пр.)</p>
+<p>Поставленная нами техника обязательно обслуживается нашими сервисными специалистами прямо на территории Клиента.Выездные бригады оперативно и качественно произведут все необходимые работы связанные с ремонтом и обслуживанием вашей техники.</p>
+<p>Сервисная служба ООО «СКАТ» производит все виды ремонтов, в том числе и капитальные.</p>
+<p>Лесозаготовительная техника АМКОДОР, уже сегодня пользуется все большим и большим спросом. Так как форвардеры, харвестеры, трелевочные тягачи АМКОДОР практически в два раза дешевле импортного аналога, гораздо проще в обслуживании и при этом имеет такую-же производительность.</p>
+<p>Холдинг АМКОДОР постоянно проводит мероприятия по улучшению технических и эксплуатационных характеристик выпускаемых моделей харвестеров, форвардеров, трелевочных тягачей и измельчителей, лесопогрузчиков. Выпускаются новые модели.Так разработаны и уже открыты для заказов харвестры и форвардеры для рубок ухода, средние форвардеры г/п до 15т. Разрабатываются новые харвестеры и форвардеры среднего и тяжелого класса, различные лесохозяйственные машины.</p>
+<p>Более 250 машин лесопромышленного комплекса АМКОДОР уже работают в России.</p>
 <p>&nbsp;</p>
-<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=k38pQ8A0ZL0">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=k38pQ8A0ZL0&title=%D0%92%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CPD50+%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E+5+%D1%82%D0%BE%D0%BD%D0%BD+%D1%81+%D0%BE%D1%82%D0%B0%D0%BF%D0%BB%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B9+%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B9&lang=en&timestamp=1691487350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=69">
-    <img src="https://ytcards.demolab.com/?id=k38pQ8A0ZL0&title=%D0%92%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CPD50+%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BF%D0%BE%D0%B4%D1%8A%D1%91%D0%BC%D0%BD%D0%BE%D1%81%D1%82%D1%8C%D1%8E+5+%D1%82%D0%BE%D0%BD%D0%BD+%D1%81+%D0%BE%D1%82%D0%B0%D0%BF%D0%BB%D0%B8%D0%B2%D0%B0%D0%B5%D0%BC%D0%BE%D0%B9+%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B9&lang=en&timestamp=1691487350&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=69" alt="Вилочный электропогрузчик HELI CPD50 грузоподъёмностью 5 тонн с отапливаемой кабиной" title="Вилочный электропогрузчик HELI CPD50 грузоподъёмностью 5 тонн с отапливаемой кабиной">
-  </picture>
+
+## Новости компании
+
+<!-- BLOG-POST-LIST:START -->
+- [Мульчер FORESTER FLIM-V 150. Обзор и работа.](https://www.skat59.ru/information/video/forester-flim-v-150.html)
+- [Пересадчик деревьев Bystron на трактор МТЗ 1221](https://www.skat59.ru/information/video/peresadchik-derevev-bystron-na-traktor-mtz-1221.html)
+- [Мини-экскаватор Yuchai YC-27-SR характеристики](https://www.skat59.ru/information/video/mini-ekskavator-yuchai-yc-27-sr-harakteristiki.html)
+- [Мини-экскаватор Yuchai YC27-SR &lpar;YC U27&rpar;](https://www.skat59.ru/information/video/mini-ekskavator-yuchai-yc27-sr-yc-u27.html)
+- [Колёсный экскаватор-погрузчик YC-B325V](https://www.skat59.ru/catalogue/road-star/yc-b325v.html)
+<!-- BLOG-POST-LIST:END -->
+
+## Видео компании на RuTube 
+
+Наш канал - [ООО «СКАТ» г. Пермь | SKAT59.RU](https://rutube.ru/channel/24674834/)
+
+<!-- BEGIN RUTUBE -->
+<a href="https://rutube.ru/video/4f18cf26dd5c0b25747950195f9cebf9/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/ef/76/ef76508a44f6c6bbc49cbaa37cd35237.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/ef/76/ef76508a44f6c6bbc49cbaa37cd35237.jpg?width=250" alt="Мульчер FORESTER FLIM-V 150. Обзор и работа." title="Мульчер FORESTER FLIM-V 150. Обзор и работа.">
+	</picture>
+	<p><strong>Мульчер FORESTER FLIM-V 150. Обзор и работа.</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=5yVacoNXdY4">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5yVacoNXdY4&title=%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+AMKODOR+W700C+%7C+%D0%A1%D0%9F%D0%95%D0%A6%D0%A2%D0%95%D0%A5%D0%9D%D0%98%D0%9A%D0%90+%7C+%D0%9E%D0%91%D0%97%D0%9E%D0%A0&lang=en&timestamp=1690118526&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=252">
-    <img src="https://ytcards.demolab.com/?id=5yVacoNXdY4&title=%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+AMKODOR+W700C+%7C+%D0%A1%D0%9F%D0%95%D0%A6%D0%A2%D0%95%D0%A5%D0%9D%D0%98%D0%9A%D0%90+%7C+%D0%9E%D0%91%D0%97%D0%9E%D0%A0&lang=en&timestamp=1690118526&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=252" alt="Погрузчик универсальный AMKODOR W700C | СПЕЦТЕХНИКА | ОБЗОР" title="Погрузчик универсальный AMKODOR W700C | СПЕЦТЕХНИКА | ОБЗОР">
-  </picture>
+
+<a href="https://rutube.ru/video/0c1fd714a4fd1885504e0ac707a93ed5/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/37/ce/37ce7c1dc28fd481476b6ac9846345fd.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/37/ce/37ce7c1dc28fd481476b6ac9846345fd.jpg?width=250" alt="Пересадчик деревьев Bystron на трактор МТЗ 1221" title="Пересадчик деревьев Bystron на трактор МТЗ 1221">
+	</picture>
+	<p><strong>Пересадчик деревьев Bystron на трактор МТЗ 1221</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=8idvcJyKXFA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8idvcJyKXFA&title=%D0%9D%D0%B0%D0%B2%D0%B5%D1%81%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0+%D0%BC%D0%B8%D0%BD%D0%B8+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B8+%D0%9C%D0%9A%D0%A1%D0%9C&lang=en&timestamp=1657096725&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=25">
-    <img src="https://ytcards.demolab.com/?id=8idvcJyKXFA&title=%D0%9D%D0%B0%D0%B2%D0%B5%D1%81%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BD%D0%B0+%D0%BC%D0%B8%D0%BD%D0%B8+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA%D0%B8+%D0%9C%D0%9A%D0%A1%D0%9C&lang=en&timestamp=1657096725&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=25" alt="Навесное оборудование на мини погрузчики МКСМ" title="Навесное оборудование на мини погрузчики МКСМ">
-  </picture>
+
+<a href="https://rutube.ru/video/cfe57b8cf10a43faef5479019b5a8cdc/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/cf/44/cf4494587208ef0f3a70d9e73b500c15.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/cf/44/cf4494587208ef0f3a70d9e73b500c15.jpg?width=250" alt="Мини-экскаватор Yuchai YC27-SR характеристики" title="Мини-экскаватор Yuchai YC27-SR характеристики">
+	</picture>
+	<p><strong>Мини-экскаватор Yuchai YC27-SR характеристики</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=8nx1kQwNQd8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=8nx1kQwNQd8&title=%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C+%D0%9C%D0%9A%D0%A1%D0%9C+%D0%BD%D0%B0+%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BD%D0%BE%D0%BC+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B5&lang=en&timestamp=1657096680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=33">
-    <img src="https://ytcards.demolab.com/?id=8nx1kQwNQd8&title=%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C+%D0%9C%D0%9A%D0%A1%D0%9C+%D0%BD%D0%B0+%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BD%D0%BE%D0%BC+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B5&lang=en&timestamp=1657096680&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=33" alt="Модель МКСМ на агрегатном заводе" title="Модель МКСМ на агрегатном заводе">
-  </picture>
+
+<a href="https://rutube.ru/video/467db1178197fa8d8195063acd78c3c9/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/0b/0a/0b0abc30f678277bd4b78972d2d340ac.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/0b/0a/0b0abc30f678277bd4b78972d2d340ac.jpg?width=250" alt="Мини-экскаватор Yuchai YC27-SR (YC U27)" title="Мини-экскаватор Yuchai YC27-SR (YC U27)">
+	</picture>
+	<p><strong>Мини-экскаватор Yuchai YC27-SR (YC U27)</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=Vz4zijAk4aA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Vz4zijAk4aA&title=%D0%9C%D0%B8%D0%BD%D0%B8+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D0%9C%D0%9A%D0%A1%D0%9C+800%D0%9D%D0%9C&lang=en&timestamp=1657096647&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=416">
-    <img src="https://ytcards.demolab.com/?id=Vz4zijAk4aA&title=%D0%9C%D0%B8%D0%BD%D0%B8+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+%D0%9C%D0%9A%D0%A1%D0%9C+800%D0%9D%D0%9C&lang=en&timestamp=1657096647&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=416" alt="Мини погрузчик МКСМ 800НМ" title="Мини погрузчик МКСМ 800НМ">
-  </picture>
+
+<a href="https://rutube.ru/video/089477d2e26ef2ee651ea90dddc3d186/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/10/46/10462188b83033cec12c837fedaaf5ef.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/10/46/10462188b83033cec12c837fedaaf5ef.jpg?width=250" alt="Электрические погрузчики QUADTRAC WL35E экологичное и экономичное решение для вашего бизнеса!" title="Электрические погрузчики QUADTRAC WL35E экологичное и экономичное решение для вашего бизнеса!">
+	</picture>
+	<p><strong>Электрические погрузчики QUADTRAC WL35E экологичное и экономичное решение для вашего бизнеса!</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=5WNr37cJy9c">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=5WNr37cJy9c&title=%D0%93%D1%83%D1%81%D0%B5%D0%BD%D0%B8%D1%86%D1%8B+%D0%BD%D0%B0+%D0%9C%D0%9A%D0%A1%D0%9C+800%D0%9D%D0%9C&lang=en&timestamp=1657096599&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=71">
-    <img src="https://ytcards.demolab.com/?id=5WNr37cJy9c&title=%D0%93%D1%83%D1%81%D0%B5%D0%BD%D0%B8%D1%86%D1%8B+%D0%BD%D0%B0+%D0%9C%D0%9A%D0%A1%D0%9C+800%D0%9D%D0%9C&lang=en&timestamp=1657096599&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=71" alt="Гусеницы на МКСМ 800НМ" title="Гусеницы на МКСМ 800НМ">
-  </picture>
+
+<a href="https://rutube.ru/video/7d196a6bb6a882b63c537344fa05b7ec/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/78/22/7822c2044eeab3089af09eb11bdca592.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/78/22/7822c2044eeab3089af09eb11bdca592.jpg?width=250" alt="Телескопический погрузчик QUADTRAC WL100T" title="Телескопический погрузчик QUADTRAC WL100T">
+	</picture>
+	<p><strong>Телескопический погрузчик QUADTRAC WL100T</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=oCP0VDTU18s">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=oCP0VDTU18s&title=%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE+%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4++%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8+%D0%9C%D0%9A%D0%A1%D0%9C++%D0%9D%D0%9C&lang=en&timestamp=1657096530&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=220">
-    <img src="https://ytcards.demolab.com/?id=oCP0VDTU18s&title=%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9+%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BE+%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9+%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4++%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8+%D0%9C%D0%9A%D0%A1%D0%9C++%D0%9D%D0%9C&lang=en&timestamp=1657096530&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=220" alt="Курганский Машино строительный завод  Модели МКСМ  НМ" title="Курганский Машино строительный завод  Модели МКСМ  НМ">
-  </picture>
+
+<a href="https://rutube.ru/video/da295d356150ad86584b792cc34100c2/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/0e/72/0e7268069074898b9f6b4660caac85c4.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/0e/72/0e7268069074898b9f6b4660caac85c4.jpg?width=250" alt="Фронтальный погрузчик QUADTRAC WL50 YANMAR" title="Фронтальный погрузчик QUADTRAC WL50 YANMAR">
+	</picture>
+	<p><strong>Фронтальный погрузчик QUADTRAC WL50 YANMAR</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=1Y84lPreQ1A">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1Y84lPreQ1A&title=%D0%AD%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Niubo+KXG-F+160&lang=en&timestamp=1643377065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=242">
-    <img src="https://ytcards.demolab.com/?id=1Y84lPreQ1A&title=%D0%AD%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B9+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Niubo+KXG-F+160&lang=en&timestamp=1643377065&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=242" alt="Экскаваторный мульчер Niubo KXG-F 160" title="Экскаваторный мульчер Niubo KXG-F 160">
-  </picture>
+
+<a href="https://rutube.ru/video/a5aff9ce183475f39b0ff11b987814e0/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/25/b1/25b17f45f495249a9d4df30a5e8d1834.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/25/b1/25b17f45f495249a9d4df30a5e8d1834.jpg?width=250" alt="Мини-погрузчик с шарнирно-сочленённой рамой QUADTRAC WL30T" title="Мини-погрузчик с шарнирно-сочленённой рамой QUADTRAC WL30T">
+	</picture>
+	<p><strong>Мини-погрузчик с шарнирно-сочленённой рамой QUADTRAC WL30T</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=y92lvAqCzvc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y92lvAqCzvc&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+%D0%BD%D0%B0+%D1%8D%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80+KXG-F+160&lang=en&timestamp=1643376646&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=36">
-    <img src="https://ytcards.demolab.com/?id=y92lvAqCzvc&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+%D0%BD%D0%B0+%D1%8D%D0%BA%D1%81%D0%BA%D0%B0%D0%B2%D0%B0%D1%82%D0%BE%D1%80+KXG-F+160&lang=en&timestamp=1643376646&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=36" alt="Мульчер на экскаватор KXG-F 160" title="Мульчер на экскаватор KXG-F 160">
-  </picture>
+
+<a href="https://rutube.ru/video/1a30b8f91dc01cddf1e5a39461d2d133/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/7f/20/7f20f5a167b5e01a128161feabae2cc5.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/7f/20/7f20f5a167b5e01a128161feabae2cc5.jpg?width=250" alt="Работа погрузчиков QUADTRAC WL50 и WL50T расчистка территории" title="Работа погрузчиков QUADTRAC WL50 и WL50T расчистка территории">
+	</picture>
+	<p><strong>Работа погрузчиков QUADTRAC WL50 и WL50T расчистка территории</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=EODKgSUZ6o8">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=EODKgSUZ6o8&title=%D0%9E%D0%B4%D0%B8%D0%BD+%D0%B8%D0%B7+%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D0%BE%D0%B2+%D0%BE%D1%82+Nuibo+++SUPER+DIAMOND&lang=en&timestamp=1643357676&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=68">
-    <img src="https://ytcards.demolab.com/?id=EODKgSUZ6o8&title=%D0%9E%D0%B4%D0%B8%D0%BD+%D0%B8%D0%B7+%D0%BB%D1%83%D1%87%D1%88%D0%B8%D1%85+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D0%BE%D0%B2+%D0%BE%D1%82+Nuibo+++SUPER+DIAMOND&lang=en&timestamp=1643357676&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=68" alt="Один из лучших мульчеров от Nuibo   SUPER DIAMOND" title="Один из лучших мульчеров от Nuibo   SUPER DIAMOND">
-  </picture>
+
+<a href="https://rutube.ru/video/294bd8d5086ab5e1fc6457919f153a1a/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/88/0e/880e1a4885de8715c8e32178a6da1efb.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/88/0e/880e1a4885de8715c8e32178a6da1efb.jpg?width=250" alt="Ломаем ледяные сугробы колёсным экскаватором QUADTRAC E130WH" title="Ломаем ледяные сугробы колёсным экскаватором QUADTRAC E130WH">
+	</picture>
+	<p><strong>Ломаем ледяные сугробы колёсным экскаватором QUADTRAC E130WH</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=Cyi5swIEhlQ">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Cyi5swIEhlQ&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D1%8B+Diamond%2C+Multy+Diamond+%D0%BE%D1%82+Nuibo&lang=en&timestamp=1643357594&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=73">
-    <img src="https://ytcards.demolab.com/?id=Cyi5swIEhlQ&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80%D1%8B+Diamond%2C+Multy+Diamond+%D0%BE%D1%82+Nuibo&lang=en&timestamp=1643357594&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=73" alt="Мульчеры Diamond, Multy Diamond от Nuibo" title="Мульчеры Diamond, Multy Diamond от Nuibo">
-  </picture>
+
+<a href="https://rutube.ru/video/93fb101a5b6caa11ec2569339ff41bd0/">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/45/57/4557fd057042d745f4f63d1f476a481b.jpg?width=250">
+		<img src="https://pic.rutubelist.ru/video/45/57/4557fd057042d745f4f63d1f476a481b.jpg?width=250" alt="Обзор мини экскаватора QUADTRAC E12 /1000 кг / глубина копания 1650мм / дизель KUBOTA Япония" title="Обзор мини экскаватора QUADTRAC E12 /1000 кг / глубина копания 1650мм / дизель KUBOTA Япония">
+	</picture>
+	<p><strong>Обзор мини экскаватора QUADTRAC E12 /1000 кг / глубина копания 1650мм / дизель KUBOTA Япония</strong></p>
 </a>
-<a href="https://www.youtube.com/watch?v=28_dArmpYuA">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=28_dArmpYuA&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Mini+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357515&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=61">
-    <img src="https://ytcards.demolab.com/?id=28_dArmpYuA&title=%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Mini+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357515&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=61" alt="Мульчер Mini Forest для трактора" title="Мульчер Mini Forest для трактора">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=zQSWFLwRwYI">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=zQSWFLwRwYI&title=%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Nuibo+Super+Forest&lang=en&timestamp=1643357443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=431">
-    <img src="https://ytcards.demolab.com/?id=zQSWFLwRwYI&title=%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9+%D0%BC%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Nuibo+Super+Forest&lang=en&timestamp=1643357443&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=431" alt="Лесной мульчер Nuibo Super Forest" title="Лесной мульчер Nuibo Super Forest">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=gr4vCDobKUc">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=gr4vCDobKUc&title=Nuibo+%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Super+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357341&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=205">
-    <img src="https://ytcards.demolab.com/?id=gr4vCDobKUc&title=Nuibo+%D0%9C%D1%83%D0%BB%D1%8C%D1%87%D0%B5%D1%80+Super+Forest+%D0%B4%D0%BB%D1%8F+%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B0&lang=en&timestamp=1643357341&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=205" alt="Nuibo Мульчер Super Forest для трактора" title="Nuibo Мульчер Super Forest для трактора">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=j74awttbypE">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=j74awttbypE&title=%D0%91%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%B2%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CCCD30&lang=en&timestamp=1628355880&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60">
-    <img src="https://ytcards.demolab.com/?id=j74awttbypE&title=%D0%91%D0%BE%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9+%D0%B2%D0%B8%D0%BB%D0%BE%D1%87%D0%BD%D1%8B%D0%B9+%D0%BF%D0%BE%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA+HELI+CCCD30&lang=en&timestamp=1628355880&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=60" alt="Боковой вилочный погрузчик HELI CCCD30" title="Боковой вилочный погрузчик HELI CCCD30">
-  </picture>
-</a>
-<!-- END EXAMPLE-YOUTUBE-CARDS -->
+<!-- END RUTUBE -->
+
+Ещё больше видео на нашем канале [ООО «СКАТ» г. Пермь | SKAT59.RU](https://rutube.ru/channel/24674834/videos/)

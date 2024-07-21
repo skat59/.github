@@ -20,9 +20,9 @@
 - [Колёсный экскаватор-погрузчик YC-B325V](https://www.skat59.ru/catalogue/road-star/yc-b325v.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Видео компании
+## Видео компании на RuTube 
 
-### RuTube - https://rutube.ru/channel/24674834/
+Наш канал - [ООО «СКАТ» г. Пермь | SKAT59.RU](https://rutube.ru/channel/24674834/)
 
 <!-- BEGIN RUTUBE -->
 <a href="https://rutube.ru/video/4f18cf26dd5c0b25747950195f9cebf9/">

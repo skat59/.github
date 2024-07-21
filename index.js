@@ -46,11 +46,13 @@
 </a>
 `;
 	});
-	const md = path.join(__dirname, 'profile', 'README.md');
-	const str = fs.readFileSync(md, { encoding: 'utf8', flag: 'r' });
 	const regex = /(\<!-- BEGIN RUTUBE -->)((?:\s+)?.+)?(\<!-- END RUTUBE -->)/gmis;
 	const subst = `$1${output}$3`;
-	const result = str.replace(regex, subst);
+	let md = path.join(__dirname, 'profile', 'README.md');
+	let str = fs.readFileSync(md, { encoding: 'utf8', flag: 'r' });
+	let result = str.replace(regex, subst);
+	fs.writeFileSync(md, result, { encoding: 'utf8' });
+	md = path.join(__dirname, 'README.md');
 	fs.writeFileSync(md, result, { encoding: 'utf8' });
 })();
 
