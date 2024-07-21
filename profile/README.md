@@ -13,6 +13,7 @@
 ## Новости компании
 
 <!-- BLOG-POST-LIST:START -->
+
 <!-- BLOG-POST-LIST:END -->
 
 ## Видео компании на RuTube 
@@ -20,6 +21,7 @@
 Наш канал - [ООО «СКАТ» г. Пермь | SKAT59.RU](https://rutube.ru/channel/24674834/)
 
 <!-- BEGIN RUTUBE -->
+
 <!-- END RUTUBE -->
 
 Ещё больше видео на нашем канале [ООО «СКАТ» г. Пермь | SKAT59.RU](https://rutube.ru/channel/24674834/videos/)
