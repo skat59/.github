@@ -24,17 +24,21 @@ const fetchRuTube = async function (url) {
 				};
 				items.push(ob);
 			});
-			if(has_next){
-				let itm = await fetchRuTube(next);
-			}else{
-				console.log("items");
+			//if(has_next){
+			//	let itm = await fetchRuTube(next);
+			//}else{
 				let clone = JSON.parse(JSON.stringify(items));
-				console.log(clone.length);
-				output = `<table><tbody>`;
+				
+				output = ``;
 				clone.forEach((elt) => {
-					output += `<tr><td><a href="${elt.url}" target="_blank"><img src="${elt.thubnail}" alt="${elt.title}" style="max-width: 200px; width: 200px;"></a></td><td><h3>${elt.title}</h3><p>${elt.description}</p><p style="text-align: right;"><a href="${elt.url}" target="_blank">View</a></p></td></tr>`;
+					output += `<a href="${elt.url}">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="${elt.thubnail}?width=250">
+    <img src="${elt.thubnail}?width=250" alt="${elt.title}" title="${elt.title}">
+  </picture>
+</a>`;
 				});
-				output += `</tbody></table>`;
+				output += ``;
 				const md = path.join(__dirname, 'profile', 'README.md');
 				const str = fs.readFileSync(md, { encoding: 'utf8', flag: 'r' });
 				const regex = /(\<!-- BEGIN RUTUBE -->(?:\s+)?)(.+)?(\<!-- END RUTUBE -->)/gmis;
@@ -42,7 +46,7 @@ const fetchRuTube = async function (url) {
 				const result = str.replace(regex, subst);
 				fs.writeFileSync(md, result, { encoding: 'utf8' });
 				resolve(clone);
-			}
+			//}
 		}).catch((react) => {
 			console.log(react);
 			reject(react);
