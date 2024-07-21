@@ -102,7 +102,7 @@
 </a>
 <!-- END EXAMPLE-YOUTUBE-CARDS -->
 
-# Новости компании
+## Новости компании
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
