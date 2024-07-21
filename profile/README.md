@@ -25,8 +25,6 @@
 ### RuTube - https://rutube.ru/channel/24674834/
 
 <!-- BEGIN RUTUBE -->
-
-
 <a href="https://rutube.ru/video/4f18cf26dd5c0b25747950195f9cebf9/">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/ef/76/ef76508a44f6c6bbc49cbaa37cd35237.jpg?width=250">
@@ -34,8 +32,6 @@
 	</picture>
 	<p><strong>Мульчер FORESTER FLIM-V 150. Обзор и работа.</strong></p>
 </a>
-
-
 
 <a href="https://rutube.ru/video/0c1fd714a4fd1885504e0ac707a93ed5/">
 	<picture>
@@ -45,8 +41,6 @@
 	<p><strong>Пересадчик деревьев Bystron на трактор МТЗ 1221</strong></p>
 </a>
 
-
-
 <a href="https://rutube.ru/video/cfe57b8cf10a43faef5479019b5a8cdc/">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/cf/44/cf4494587208ef0f3a70d9e73b500c15.jpg?width=250">
@@ -54,8 +48,6 @@
 	</picture>
 	<p><strong>Мини-экскаватор Yuchai YC27-SR характеристики</strong></p>
 </a>
-
-
 
 <a href="https://rutube.ru/video/467db1178197fa8d8195063acd78c3c9/">
 	<picture>
@@ -65,8 +57,6 @@
 	<p><strong>Мини-экскаватор Yuchai YC27-SR (YC U27)</strong></p>
 </a>
 
-
-
 <a href="https://rutube.ru/video/089477d2e26ef2ee651ea90dddc3d186/">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/10/46/10462188b83033cec12c837fedaaf5ef.jpg?width=250">
@@ -74,8 +64,6 @@
 	</picture>
 	<p><strong>Электрические погрузчики QUADTRAC WL35E экологичное и экономичное решение для вашего бизнеса!</strong></p>
 </a>
-
-
 
 <a href="https://rutube.ru/video/7d196a6bb6a882b63c537344fa05b7ec/">
 	<picture>
@@ -85,8 +73,6 @@
 	<p><strong>Телескопический погрузчик QUADTRAC WL100T</strong></p>
 </a>
 
-
-
 <a href="https://rutube.ru/video/da295d356150ad86584b792cc34100c2/">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/0e/72/0e7268069074898b9f6b4660caac85c4.jpg?width=250">
@@ -94,8 +80,6 @@
 	</picture>
 	<p><strong>Фронтальный погрузчик QUADTRAC WL50 YANMAR</strong></p>
 </a>
-
-
 
 <a href="https://rutube.ru/video/a5aff9ce183475f39b0ff11b987814e0/">
 	<picture>
@@ -105,8 +89,6 @@
 	<p><strong>Мини-погрузчик с шарнирно-сочленённой рамой QUADTRAC WL30T</strong></p>
 </a>
 
-
-
 <a href="https://rutube.ru/video/1a30b8f91dc01cddf1e5a39461d2d133/">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/7f/20/7f20f5a167b5e01a128161feabae2cc5.jpg?width=250">
@@ -114,8 +96,6 @@
 	</picture>
 	<p><strong>Работа погрузчиков QUADTRAC WL50 и WL50T расчистка территории</strong></p>
 </a>
-
-
 
 <a href="https://rutube.ru/video/294bd8d5086ab5e1fc6457919f153a1a/">
 	<picture>
@@ -125,8 +105,6 @@
 	<p><strong>Ломаем ледяные сугробы колёсным экскаватором QUADTRAC E130WH</strong></p>
 </a>
 
-
-
 <a href="https://rutube.ru/video/93fb101a5b6caa11ec2569339ff41bd0/">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/45/57/4557fd057042d745f4f63d1f476a481b.jpg?width=250">
@@ -134,13 +112,4 @@
 	</picture>
 	<p><strong>Обзор мини экскаватора QUADTRAC E12 /1000 кг / глубина копания 1650мм / дизель KUBOTA Япония</strong></p>
 </a>
-
-
 <!-- END RUTUBE -->
-
-### YouTube
-
-
-<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-
-<!-- END EXAMPLE-YOUTUBE-CARDS -->
