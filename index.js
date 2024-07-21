@@ -42,7 +42,9 @@
 			<img src="${elt.thubnail}?width=250" alt="${elt.title}" title="${elt.title}">
 		</picture>
 		<p><strong>${elt.title}</strong></p>
-	</a>`;
+	</a>
+
+`;
 	});
 	const md = path.join(__dirname, 'profile', 'README.md');
 	const str = fs.readFileSync(md, { encoding: 'utf8', flag: 'r' });
