@@ -22,9 +22,16 @@ jobs:
       # - name: Build README
       #   run: |
       #     npm i && node index.js
-      - name: Pull in dev to posts
+      - name: Pull profile README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://www.skat59.ru/rss.xml"
           readme_path: "./profile/README.md"
           max_post_count: 20
+      - name: Pull README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.skat59.ru/rss.xml"
+          readme_path: "./README.md"
+          max_post_count: 20
+
