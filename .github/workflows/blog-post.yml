@@ -34,4 +34,3 @@ jobs:
           feed_list: "https://www.skat59.ru/rss.xml"
           readme_path: "./README.md"
           max_post_count: 20
-
