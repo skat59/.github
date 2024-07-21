@@ -32,7 +32,7 @@ const fetchRuTube = async function (url) {
 				console.log(clone.length);
 				output = `<table><tbody>`;
 				clone.forEach((elt) => {
-					output += `<tr><td><a href="${elt.url}" target="_blank"><img src="${elt.thubnail}" alt="${elt.title}" width="200"></a></td><td><h3>${elt.title}</h3><p>${elt.description}</p><p style="text-align: right;"><a href="${elt.url}" target="_blank">View</a></p></td></tr>`;
+					output += `<tr><td><a href="${elt.url}" target="_blank"><img src="${elt.thubnail}" alt="${elt.title}" style="max-width: 200px; width: 200px;"></a></td><td><h3>${elt.title}</h3><p>${elt.description}</p><p style="text-align: right;"><a href="${elt.url}" target="_blank">View</a></p></td></tr>`;
 				});
 				output += `</tbody></table>`;
 				const md = path.join(__dirname, 'profile', 'README.md');
