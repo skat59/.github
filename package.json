@@ -1,0 +1,13 @@
+{
+  "name": "skat59github",
+  "version": "1.0.2",
+  "main": "index.js",
+  "author": "ProjectSoft <projectsoft2009@yandex.ru>",
+  "license": "MIT",
+  "scripts": {
+    "test": "npm i && node index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.3"
+  }
+}
