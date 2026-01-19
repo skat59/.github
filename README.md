@@ -13,6 +13,9 @@
 ## Новости компании
 
 <!-- BLOG-POST-LIST:START -->
+- [ЛЕСОЗАГОТОВИТЕЛЬНАЯ ТЕХНИКА АМКОДОР](https://www.skat59.ru/information/video/lesozagotovitelnaya-tehnika.html)
+- [Машина трелевочная АМКОДОР 2242B](https://www.skat59.ru/information/video/mashina-trelevochnaya-amkodor-2242b.html)
+- [TAIAN DY1150. Самая большая машина в модельном ряду](https://www.skat59.ru/information/video/taian-dy1150.html)
 - [Сферы применения универсальных шарнирно-сочлененных минипогрузчиков TAIAN](https://www.skat59.ru/information/video/sfery-primeneniya-universalnyh-sharnirno-sochlenennyh-minipogruzchikov-taian.html)
 - [Колесный экскаватор Jinggong JG230S](https://www.skat59.ru/information/video/kolesnyj-ekskavator-jinggong-jg230s.html)
 - [Культиватор глубокорыхлитель полунавесной КГП 6.2](https://www.skat59.ru/information/video/kultivator-glubokoryhlitel-polunavesnoj-kgp-6.2.html)
@@ -30,9 +33,6 @@
 - [Измельчитель веток Tomcat M4100 CDT](https://www.skat59.ru/information/video/izmelchitel-vetok-tomcat-m4100-cdt.html)
 - [СВР-39](https://www.skat59.ru/information/video/svr-39.html)
 - [ЗСК-60 АМКОДОР](https://www.skat59.ru/information/video/zsk-60-amkodor.html)
-- [Очиститель зерна сетчатый ОЗС-100](https://www.skat59.ru/information/video/ozs-100.html)
-- [Всероссийский форум «Леса России»](https://www.skat59.ru/information/video/vserossijskij-forum-lesa-rossii.html)
-- [Поставщик ООО «СКАТ» представил спецтехнику на форуме «Леса России»](https://www.skat59.ru/about_company/news/lesa-rossii-2024.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Видео компании на RuTube 
